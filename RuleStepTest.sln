@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleStepTest", "RuleStepTest\RuleStepTest.csproj", "{4DB0DF2F-5559-412B-B9B0-E63B6ABDA46D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuleStepTest", "RuleStepTest\RuleStepTest.csproj", "{4DB0DF2F-5559-412B-B9B0-E63B6ABDA46D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{536E7F0E-F0AA-4B11-BB54-41B8DD3B8D22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4DB0DF2F-5559-412B-B9B0-E63B6ABDA46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DB0DF2F-5559-412B-B9B0-E63B6ABDA46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DB0DF2F-5559-412B-B9B0-E63B6ABDA46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536E7F0E-F0AA-4B11-BB54-41B8DD3B8D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536E7F0E-F0AA-4B11-BB54-41B8DD3B8D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536E7F0E-F0AA-4B11-BB54-41B8DD3B8D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536E7F0E-F0AA-4B11-BB54-41B8DD3B8D22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
